@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+// React is Crazy
+
 class App extends Component {
 
   constructor() {
